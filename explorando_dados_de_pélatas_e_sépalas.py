@@ -161,7 +161,7 @@ CV2= dados.std()/dados.mean()*100 #outra forma de calcular
 
 CV2
 
-"""#Medidas de assimetria // person
+"""#Medidas de assimetria // Poisson
 população ou amostra: pego a media, subtraio da moda e divido pelo desvio padrao
 - siméticas
 - assimétrica negativa <0
